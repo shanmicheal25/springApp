@@ -1,0 +1,43 @@
+// HATEOAS - hyper media as the engine of application state..
+
+when user request for some resource details, hateos will not response only the resource user request. 
+It will help to know other resource related to search resource  is called HATOES
+
+
+How to internationalization rest full webservices..(content , versions, documents, monitor )
+
+ * I18  - nothing but custimize services
+
+configuration 
+
+LocaleResolver  -- -need to configure 
+
+- Default Locale = Locale.us
+
+ResourceBundleMessageSource -- spring concept handling the properties..
+
+
+Content Negonization - need to bring output to xml 
+
+Just add the com.fasterxml.jackson.dataformat ..
+
+
+swagger - famous document  
+
+how to do document high level using swagger....
+
+
+Monitor the api.. actuator..  
+
+spring actuaor , spring data hal - hypertext application language.
+
+
+Filtering done by using jsonIgnore is an static 
+
+how to do dynamic filter using MappingJacksonValue using JsonFilter("User")
+
+
+
+
+
+
